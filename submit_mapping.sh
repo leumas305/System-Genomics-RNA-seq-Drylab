@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --ntasks=10
-#SBATCH --time=23:30:00
+#SBATCH --time=48:00:00
 #SBATCH --mem-per-cpu=5G
 
 cd /cluster/scratch/gomest/systems_genomics
